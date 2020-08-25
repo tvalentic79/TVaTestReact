@@ -1,7 +1,12 @@
 import React, { Component } from "react";
 import CardList from "./components/card-list/card-list.component";
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import SearchBox from "./components/serch-box/search-box.component";
+import Container from "react-bootstrap/Container";
+import CardDeck from "react-bootstrap/CardDeck";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 
 class App extends Component {
   constructor() {
@@ -36,14 +41,19 @@ class App extends Component {
       monster.name.toLowerCase().includes(searchField.toLowerCase())
     );
     return (
-      <div className="App">
+      <Container className="App">
         <h1>Monsters Rolodex</h1>
         <SearchBox
           placeholder="search monsters"
           handleChange={this.handleChange}
         />
-        <CardList monsters={filteredMonsters}></CardList>
-      </div>
+
+        <Row>
+          <Col lg={16}>
+            <CardList monsters={filteredMonsters}></CardList>
+          </Col>
+        </Row>
+      </Container>
     );
   }
 }

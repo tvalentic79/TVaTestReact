@@ -1,16 +1,20 @@
 import React from "react";
-import Card from "../card/card.component";
-
+import MyCard from "../card/my-card.component";
 import "./card-list.stayles.css";
+/* import Card from 'react-bootstrap/Card'; */
+import CardDeck from "react-bootstrap/CardDeck";
 
 const CardList = (props) => {
   console.log(props);
   return (
-    <div className="card-list">
+    /* <div className="card-list"> */
+    /*  <Card key={monster.id} monster={monster} /> */
+
+    <CardDeck className="card-list">
       {props.monsters.map((monster) => (
-        <Card key={monster.id} monster={monster} />
+        <MyCard key={monster.id} monster={monster} />
       ))}
-    </div>
+    </CardDeck>
   );
 };
 
