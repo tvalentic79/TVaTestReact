@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TVaTestReact/static/css/main.1a2fc7ff.chunk.css",
+    "main.css": "/TVaTestReact/static/css/main.14c21793.chunk.css",
     "main.js": "/TVaTestReact/static/js/main.cf567fc9.chunk.js",
     "main.js.map": "/TVaTestReact/static/js/main.cf567fc9.chunk.js.map",
     "runtime-main.js": "/TVaTestReact/static/js/runtime-main.4e23d23f.js",
@@ -9,17 +9,17 @@
     "static/js/2.5ada42b1.chunk.js": "/TVaTestReact/static/js/2.5ada42b1.chunk.js",
     "static/js/2.5ada42b1.chunk.js.map": "/TVaTestReact/static/js/2.5ada42b1.chunk.js.map",
     "index.html": "/TVaTestReact/index.html",
-    "precache-manifest.2ddea7f38e579baf2a0cc53ea206775b.js": "/TVaTestReact/precache-manifest.2ddea7f38e579baf2a0cc53ea206775b.js",
+    "precache-manifest.5a0b3cba984e5984faf010e3df4cc567.js": "/TVaTestReact/precache-manifest.5a0b3cba984e5984faf010e3df4cc567.js",
     "service-worker.js": "/TVaTestReact/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/TVaTestReact/static/css/2.11829350.chunk.css.map",
-    "static/css/main.1a2fc7ff.chunk.css.map": "/TVaTestReact/static/css/main.1a2fc7ff.chunk.css.map",
+    "static/css/main.14c21793.chunk.css.map": "/TVaTestReact/static/css/main.14c21793.chunk.css.map",
     "static/js/2.5ada42b1.chunk.js.LICENSE.txt": "/TVaTestReact/static/js/2.5ada42b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e23d23f.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.5ada42b1.chunk.js",
-    "static/css/main.1a2fc7ff.chunk.css",
+    "static/css/main.14c21793.chunk.css",
     "static/js/main.cf567fc9.chunk.js"
   ]
 }
