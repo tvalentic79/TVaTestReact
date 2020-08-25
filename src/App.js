@@ -49,7 +49,7 @@ class App extends Component {
         />
 
         <Row>
-          <Col lg={16}>
+          <Col>
             <CardList monsters={filteredMonsters}></CardList>
           </Col>
         </Row>

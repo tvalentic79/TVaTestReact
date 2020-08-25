@@ -10,7 +10,7 @@
     backface-visibility: hidden !important;
     transform: translateZ(0) !important;
     transition: transform 0.25s ease-out !important;
-    min-width: 20% !important;
+   /*  min-width: 5% !important; */
   }    
 
   .my-card :hover {
