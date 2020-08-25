@@ -27,9 +27,9 @@ class App extends Component {
       .then((users) => this.setState({ monsters: users }));
   }
 
-  /* printState = () => {
+  printState = () => {
     console.log("PrintState ", this.state);
-  }; */
+  };
 
   handleChange = (e) => {
     this.setState({ searchField: e.target.value }, this.printState);
