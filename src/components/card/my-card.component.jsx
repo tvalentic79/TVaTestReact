@@ -25,8 +25,7 @@ const MyCard = (props) => {
           <Card.Text>This content is a little bit longer. Nova verzija 77.</Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">{props.monster.email}</small>
-          <small className="text-muted">{props.monster.email}</small>
+          <small className="text-muted">{props.monster.email}</small>          
         </Card.Footer>
       </Card>
     </div>
