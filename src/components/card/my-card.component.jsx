@@ -17,7 +17,8 @@ const MyCard = (props) => {
       <Card>
         <Card.Img
           variant="top"
-          src={`https://robohash.org/${props.monster.id}?set=set2&size=180x180`}
+         /*  src={`https://robohash.org/${props.monster.id}?set=set2&size=180x180`} */
+         src={`https://robohash.org/${props.monster.id}?set=set4&size=180x180`}
         />
         <Card.Body>
           <Card.Title>{props.monster.name}</Card.Title>
