@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TVaTestReact/static/css/main.14c21793.chunk.css",
-    "main.js": "/TVaTestReact/static/js/main.7970f7cd.chunk.js",
-    "main.js.map": "/TVaTestReact/static/js/main.7970f7cd.chunk.js.map",
+    "main.css": "/TVaTestReact/static/css/main.3424f542.chunk.css",
+    "main.js": "/TVaTestReact/static/js/main.167a7855.chunk.js",
+    "main.js.map": "/TVaTestReact/static/js/main.167a7855.chunk.js.map",
     "runtime-main.js": "/TVaTestReact/static/js/runtime-main.4e23d23f.js",
     "runtime-main.js.map": "/TVaTestReact/static/js/runtime-main.4e23d23f.js.map",
     "static/css/2.11829350.chunk.css": "/TVaTestReact/static/css/2.11829350.chunk.css",
     "static/js/2.5ada42b1.chunk.js": "/TVaTestReact/static/js/2.5ada42b1.chunk.js",
     "static/js/2.5ada42b1.chunk.js.map": "/TVaTestReact/static/js/2.5ada42b1.chunk.js.map",
     "index.html": "/TVaTestReact/index.html",
-    "precache-manifest.a385beb474f978fd695fd46d7b16b0d0.js": "/TVaTestReact/precache-manifest.a385beb474f978fd695fd46d7b16b0d0.js",
+    "precache-manifest.ab85d16be241a072828e6b47f773fdb9.js": "/TVaTestReact/precache-manifest.ab85d16be241a072828e6b47f773fdb9.js",
     "service-worker.js": "/TVaTestReact/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/TVaTestReact/static/css/2.11829350.chunk.css.map",
-    "static/css/main.14c21793.chunk.css.map": "/TVaTestReact/static/css/main.14c21793.chunk.css.map",
+    "static/css/main.3424f542.chunk.css.map": "/TVaTestReact/static/css/main.3424f542.chunk.css.map",
     "static/js/2.5ada42b1.chunk.js.LICENSE.txt": "/TVaTestReact/static/js/2.5ada42b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e23d23f.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.5ada42b1.chunk.js",
-    "static/css/main.14c21793.chunk.css",
-    "static/js/main.7970f7cd.chunk.js"
+    "static/css/main.3424f542.chunk.css",
+    "static/js/main.167a7855.chunk.js"
   ]
 }

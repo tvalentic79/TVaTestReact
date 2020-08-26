@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6e73f3828c0513d078b90ead727e2a5",
+    "revision": "f5a24251e47d479b518ff5f51d780645",
     "url": "/TVaTestReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TVaTestReact/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "fe899ad3c904199e6843",
-    "url": "/TVaTestReact/static/css/main.14c21793.chunk.css"
+    "revision": "ef22f9afdc7bbdebf9a4",
+    "url": "/TVaTestReact/static/css/main.3424f542.chunk.css"
   },
   {
     "revision": "a647fe96307298dbba43",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TVaTestReact/static/js/2.5ada42b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe899ad3c904199e6843",
-    "url": "/TVaTestReact/static/js/main.7970f7cd.chunk.js"
+    "revision": "ef22f9afdc7bbdebf9a4",
+    "url": "/TVaTestReact/static/js/main.167a7855.chunk.js"
   },
   {
     "revision": "9d8d97a7924745afc8a0",
