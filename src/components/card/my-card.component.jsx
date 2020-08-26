@@ -22,7 +22,7 @@ const MyCard = (props) => {
         />
         <Card.Body>
           <Card.Title>{props.monster.name}</Card.Title>
-          <Card.Text>This content is a little bit longer. Nova verzija 77.</Card.Text>
+          <Card.Text>This content is a little bit longer.</Card.Text>
         </Card.Body>
         <Card.Footer>
           <small className="text-muted">{props.monster.email}</small>          
