@@ -10,7 +10,7 @@ import CardDeck from "react-bootstrap/CardDeck";
 const CardList = (props) => {
   console.log(props);
   return (
-    <CardDeck className="card-list">
+    <CardDeck className="card-deck">
       {props.monsters.map((monster) => (
         <MyCard key={monster.id} monster={monster} />
       ))}

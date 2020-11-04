@@ -7,7 +7,7 @@
     /* padding: 25px !important; */
 
     width:250px !important;
-    height: 400px !important;
+    min-height: 350px !important;
     /* border:1px solid black; */
     display: flex !important;   
     flex-flow:row wrap !important;
@@ -17,7 +17,7 @@
     backface-visibility: hidden !important;
     transform: translateZ(0) !important;
     transition: transform 0.25s ease-out !important;
-    padding-bottom: 14px !important;
+    padding-bottom: 33px !important;
    /*  min-width: 5% !important; */
   }    
 
