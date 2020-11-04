@@ -16,8 +16,7 @@
     backface-visibility: hidden !important;
     transform: translateZ(0) !important;
     transition: transform 0.25s ease-out !important;
-    padding-bottom: 33px !important;
-   /*  min-width: 5% !important; */
+    padding-bottom: 33px !important;   
   }    
 
   .my-card :hover {
